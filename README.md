@@ -4,3 +4,4 @@ The two methods we use for predictions are
 i) Machine Learning method 
 ii) Neural Network method . 
 The first step i.e of data cleaning and processing remains the same for both the methods . In the first method we are going to use the Linear Regression model from scikit-learn library . 
+![alt text]()
